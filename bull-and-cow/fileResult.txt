@@ -1,0 +1,26 @@
+Bulls & Cows game result
+Your code: 321456
+Albert Einstein's code: 354278
+---
+Turn 1
+You guessed: 123456, scoring, 0 bulls and 4 cows
+Albert Einstein guessed: 319086, scoring, 2 bulls and 1 cows
+---
+Turn 2
+You guessed: 365214, scoring, 2 bulls and 2 cows
+Albert Einstein guessed: 749216, scoring, 1 bulls and 3 cows
+---
+Turn 3
+You guessed: 369852, scoring, 1 bulls and 3 cows
+Albert Einstein guessed: 369547, scoring, 1 bulls and 3 cows
+---
+Turn 4
+You guessed: 145236, scoring, 1 bulls and 3 cows
+Albert Einstein guessed: 347682, scoring, 1 bulls and 3 cows
+---
+Turn 5
+You guessed: 321456, scoring, 1 bulls and 3 cows
+Albert Einstein guessed: 439072, scoring, 0 bulls and 3 cows
+---
+Turn 6
+No one win. Did you quit?
